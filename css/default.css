@@ -1,6 +1,7 @@
 body{
-    font-family: "Arial";
-    background: yellowgreen;
+    font-family: "Comic Sans MS";
+    background: black;
+    color:white;
 }
 
 .clearfix{
@@ -32,4 +33,5 @@ ul.ponys li figure img{
 
 ul.ponys li figure figcaption {
     text-align: center;
+    background: orange;
 } 
